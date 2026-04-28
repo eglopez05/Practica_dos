@@ -1,8 +1,5 @@
-# TITULO GRANDE
-## SUBTITULO
-**texto en negrita**
-*texto en cursiva*
-- lista 1
-- lista 2
- [ENLACE A GITHUB](URL)
- 
+# Mi Sueño
+## Mi sueño es...
+**Mi sueño seria viajar por todo el mundo junto a mi familia.**
+
+
